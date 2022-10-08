@@ -1,3 +1,7 @@
+---
+name: Course 1
+---
+
 # My wonderful course
 
 This is very informative
