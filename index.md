@@ -1,4 +1,5 @@
 ---
+id: theme1
 name: The one theme
 description: One theme to bring them all and in the darkness bind them
 courses:
