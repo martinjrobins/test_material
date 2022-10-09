@@ -1,4 +1,5 @@
 ---
+id: course1
 name: Course 1
 ---
 
